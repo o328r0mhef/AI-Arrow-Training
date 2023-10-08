@@ -1,0 +1,10 @@
+float32 prox_front_left
+float32 prox_front
+float32 prox_front_right
+float32 prox_back
+float32 prox_back_left
+float32 prox_back_right
+float32 prox_back_left_left
+float32 prox_back_right_right
+float32 prox_front_left_left
+float32 prox_front_right_right
